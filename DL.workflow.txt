@@ -1,0 +1,35 @@
+Use the format presented in the dasi project template translate it to the ipython 
+notebook.
+### Introduction:
+### Data:
+### Exploratory data analysis:
+### Inference:
+### Conclusion:
+
+
+[1] Start with Exploratory Data analysis
+import pandas as pd
+df = pd.read_csv('my_data.csv')
+df.head()
+df.info() convert the target variable to_categorical - check Last steps in classification 
+models
+df.columns
+df.describe()
+df.column.value_counts()
+draw a pairplot with few variables/pd.scatter_matrix
+
+
+Look at the specify - Compile- fit and predict
+As a start use the binary classification section in the cheatsheet as start
+Compile fit and predict without changes to the hidden layers.
+make a prediction
+
+
+Model fine-tuning
+Change model optimisation parameters for RMSprop
+Add a Early stopping step
+Experimenting with wider networks
+Adding layers to a network
+Refer to the sequential experiments slides
+
+
