@@ -1,6 +1,7 @@
 # pimaDLkeras
 Using keras specify-compile-fit- prediction workflow on this binary classification problem to investigate if i'll get better predictions. 
 
+Check out the requirements.txt before doing the analysis on your machine.
 
 Accuracy approximately 70 %
 
