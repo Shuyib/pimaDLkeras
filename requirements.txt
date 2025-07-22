@@ -1,7 +1,7 @@
 jupyter
 ipython
 tensorFlow > 1.7.1 
-keras == 2.0.4
+keras == 2.13.1
 pandas == 0.20.2
 numpy == 1.12.1
 matplotlib == 2.0.2
